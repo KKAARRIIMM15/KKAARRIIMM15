@@ -3,10 +3,6 @@
 
 ### i've worked on a numper of projects in some areas.
 
-<head>
-  <title>HW projects</title>
-</head>
-
 #### 1- IOT patient data transfer from arduino remote sensors to jave server using MQTT protocol (patient monitoring system)
 #### 2- Remote Signal Controller from cloud (java based) to raspberry pi nodes (python based) using bidirectional GRPCs
 #### 3- Covid
