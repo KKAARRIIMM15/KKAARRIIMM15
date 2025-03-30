@@ -6,8 +6,8 @@
 ### Hardware projects
 - 🚑 (patient monitoring system)
   How it Works:
--  IOT patient data transfer from Arduino remote sensors to Java server using MQTT protocol then Java server alerts trigger if vitals exceed safe limits.
-- Remote Signal Controller from cloud (Java-based) to Raspberry Pi nodes (Python-based) using bidirectional GRPCs
+  IOT patient data transfer from Arduino remote sensors to Java server using MQTT protocol then Java server alerts trigger if vitals exceed safe limits.
+
   
 - 🚦 Smart Traffic Light System
 Use Case: Control and monitor traffic lights in different locations from a cloud-based system.
