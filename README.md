@@ -8,6 +8,7 @@
 - Remote Signal Controller from cloud (Java-based) to Raspberry Pi nodes (Python-based) using bidirectional GRPCs
 - 🚦 Smart Traffic Light System
 Use Case: Control and monitor traffic lights in different locations from a cloud-based system.
+
 How it Works:
 A Java-based cloud server sends traffic light signals (red, yellow, green) to multiple Raspberry Pi nodes.
 The Raspberry Pi (Python-based) receives commands and controls actual traffic lights (LEDs or real traffic lights).
