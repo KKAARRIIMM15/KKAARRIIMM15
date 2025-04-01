@@ -6,7 +6,7 @@
 ### IOT Projects
 - 🚑 (patient monitoring system)
   How it Works:
-  patient data transfers from Arduino remote sensors to Java server using MQTT protocol then Java server alerts trigger if vitals exceed safe limits.
+  patient data transfers from Arduino (remote sensors) to Java server using MQTT protocol, then server alerts trigger if vitals exceed safe limits by notifying the medical team.
 
   
 - 🚦 Smart Traffic Light System
